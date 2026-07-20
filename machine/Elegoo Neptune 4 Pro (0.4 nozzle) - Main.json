@@ -1,0 +1,18 @@
+{
+    "from": "User",
+    "inherits": "Elegoo Neptune 4 Pro (0.4 nozzle)",
+    "name": "Elegoo Neptune 4 Pro (0.4 nozzle) - Main",
+    "nozzle_type": [
+        "brass"
+    ],
+    "print_host": "192.168.1.71",
+    "printer_extruder_id": [
+        "1"
+    ],
+    "printer_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "printer_settings_id": "Elegoo Neptune 4 Pro (0.4 nozzle) - Main",
+    "support_multi_bed_types": "1",
+    "version": "2.3.2.60"
+}
